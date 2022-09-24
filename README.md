@@ -1,3 +1,5 @@
+2022-9-24 新增密码破解工具Ziperello
+
 2022-8-23 新增日志检测工具detectattack
 
 2022-8-22 新增java jattach工具
